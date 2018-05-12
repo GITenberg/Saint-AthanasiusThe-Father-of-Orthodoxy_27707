@@ -1,0 +1,29 @@
+_repo: Saint-AthanasiusThe-Father-of-Orthodoxy_27707
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forbes, F. A. (Frances Alice)
+    alias: Forbes, Frances Alice Monica
+    birthdate: 1869
+    deathdate: 1936
+    gutenberg_agent_id: '32859'
+    url: http://www.gutenberg.org/2009/agents/32859
+    wikipedia: http://en.wikipedia.org/wiki/F._A._Forbes
+description: ''
+gutenberg_issued: '2009-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Athanasius, Saint, Patriarch of Alexandria, -373'
+- !lcsh 'Christian saints -- Biography'
+title: Saint Athanasius, the Father of Orthodoxy
+url: http://www.gutenberg.org/ebooks/27707
